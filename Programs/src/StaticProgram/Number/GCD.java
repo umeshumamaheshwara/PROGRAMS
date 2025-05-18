@@ -3,8 +3,8 @@ package StaticProgram.Number;
 public class GCD {
 	
 	    public static void main(String[] args) {
-	        int num1 = 60; // You can change these values
-	        int num2 = 36;
+	        int num1 = 36; // You can change these values
+	        int num2 = 60;
 
 	       
 	        while (num2 != 0) {
@@ -15,4 +15,5 @@ public class GCD {
 
 	        System.out.println("GCD is: " + num1);
 	    }
+	    
 	}
